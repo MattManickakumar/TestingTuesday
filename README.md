@@ -5,7 +5,7 @@ With reference to our TestingTuesday meeting conducted on 12/Dec/17. Sharing her
 Hope they give you some inspiration in your existing/future project. Happy learning :)
 
 Reference:
-http://www.seleniumhq.org/ ,
-http://specflow.org/docs/ ,
+http://www.seleniumhq.org/ \n
+http://specflow.org/docs/ \n
 https://cucumber.io/docs
 
