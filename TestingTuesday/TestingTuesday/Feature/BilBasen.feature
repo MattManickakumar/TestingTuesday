@@ -5,7 +5,7 @@ Check if the user is able to search for cars.
 
 Scenario: Search for a vintage car
 	Given User is in Bilbasen page
-	When searches for car older than 1990
+	When searches for car older than 2000
 	Then bilbasen result private and dealer cars listed for the same
 
 Scenario: Search car with user defined criteria

@@ -76,7 +76,7 @@ namespace PageObjectModel
         {
             get
             {
-                return new Dropdown(FindElement(By.XPath("//*[@id='inline-search-collapse']//label[text()='År']/..//select/option[text()='fra']/..")));
+                return new Dropdown(FindElement(By.XPath("//*[@id='inline-search-collapse']//label[text()='Modelår']/..//select/option[text()='fra']/..")));
             }
         }
 
@@ -84,7 +84,7 @@ namespace PageObjectModel
         {
             get
             {
-                return new Dropdown(FindElement(By.XPath("//*[@id='inline-search-collapse']//label[text()='År']/..//select/option[text()='til']/..")));
+                return new Dropdown(FindElement(By.XPath("//*[@id='inline-search-collapse']//label[text()='Modelår']/..//select/option[text()='til']/..")));
             }
         }
 

@@ -72,7 +72,7 @@ this.ScenarioSetup(scenarioInfo);
 #line 7
  testRunner.Given("User is in Bilbasen page", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
 #line 8
- testRunner.When("searches for car older than 1990", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+ testRunner.When("searches for car older than 2000", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
 #line 9
  testRunner.Then("bilbasen result private and dealer cars listed for the same", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
